@@ -1,0 +1,20 @@
+.nav-container {
+	height: 75px;
+	width: 100%;
+	border-bottom: 1px solid rgba(0,0,0,0.12);
+}
+
+.nav-brand {
+	float: left;
+	margin: 12px;
+}
+
+.nav-list {
+	float: right;
+}
+
+.nav-item {
+	display: block;
+	float: left;
+	margin: 12px;
+}
