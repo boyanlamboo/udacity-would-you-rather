@@ -3,7 +3,6 @@ import { connect } from 'react-redux'
 import Question from './Question'
 import '../css/dashboard.css'
 import { createSelector } from 'reselect'
-import Navbar from './Navbar'
 
 class Dashboard extends Component {
 	
@@ -22,11 +21,8 @@ class Dashboard extends Component {
 	render(){
 		const { category } = this.state
 		const { unansweredQuestions, answeredQuestions } = this.props 
-		console.log(this.props)
-		
 		return (
 			<div>
-				<Navbar />
 				<div className='category-toggler'>
 					<select onChange={this.handleToggleCategory}>
 							<option value='Unanswered Questions'>Unanswered Questions</option>
