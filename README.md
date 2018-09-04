@@ -21,7 +21,7 @@ Terminal (mac)
 
 How to install:
 
-* Download this repository [here](https://github.com/boyanlamboo/react-course-1/archive/master.zip)
+* Download this repository [here](https://github.com/boyanlamboo/udacity-would-you-rather/archive/master.zip)
 
 ```
 Optionally you can also just clone this repository!
