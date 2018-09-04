@@ -43,3 +43,12 @@
   color: #ffffff;
   transition-duration: 0.15s;
 }
+
+a {
+	color: #000000;
+	text-decoration: none;
+}
+
+.green a {
+	color: mediumseagreen;
+}
