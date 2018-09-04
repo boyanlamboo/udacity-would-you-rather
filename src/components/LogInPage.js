@@ -3,8 +3,6 @@ import '../css/login.css'
 import { connect } from 'react-redux'
 import { setAuthedUser } from '../actions/authedUser'
 import User from './User'
-import PrivateRoute from './PrivateRoute'
-import fakeAuth from '../utils/api'
 
 class LogInPage extends Component {
   componentWillMount() {
