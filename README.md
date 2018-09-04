@@ -26,6 +26,7 @@ How to install:
 ```
 Optionally you can also just clone this repository!
 ```
+* Then run ```yarn``` to install the packages
 
 That's it, you can now deploy the project.
 
